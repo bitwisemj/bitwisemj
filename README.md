@@ -38,10 +38,14 @@ I'm MJ, a backend developer hailing from Itapeva, Brazil. I am driven by a deep-
   srcset="https://github-readme-stats.vercel.app/api?username=bitwisemj&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=bitwisemj&show_icons=true" />
+<img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=bitwisemj&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitwisemj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<hr/>
 
-
+<picture>
+  
+  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitwisemj&layout=compact&theme=vision-friendly-dark" />
+   
+</picture>
 
