@@ -1,6 +1,10 @@
 Hey there,
 
 I'm MJ, a backend developer hailing from Itapeva, Brazil. I am driven by a deep-seated passion for the ever-evolving world of technology and I'm always seeking out new challenges and opportunities to expand my skillset. As a lifelong learner, I have a particular interest in mastering new programming languages. I have worked with Java, Javascript, Typescript, C++ and I just started learning C++, which is the language I like most.
+
+<p align="center">
+  ![bitwisemj Github Stats](https://github-readme-stats.vercel.app/api?username=bitwisemj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+ </p>
   
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
