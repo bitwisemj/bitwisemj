@@ -3,6 +3,7 @@ Hey there,
 I'm MJ, a backend developer hailing from Itapeva, Brazil. I am driven by a deep-seated passion for the ever-evolving world of technology and I'm always seeking out new challenges and opportunities to expand my skillset. As a lifelong learner, I have a particular interest in mastering new programming languages. I have worked with Java, Javascript, Typescript, C++ and I just started learning C++, which is the language I like most.
   
 <p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACD" />
 <img src="https://img.shields.io/badge/C%2b%2b-%23323330.svg?style=for-the-badge&logo=c&logoColor=%23007ACD" />
 <img src="https://img.shields.io/badge/go-%23323330.svg?style=for-the-badge&logo=g" />
