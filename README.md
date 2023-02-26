@@ -8,9 +8,8 @@ I'm MJ, a backend developer hailing from Itapeva, Brazil. I am driven by a deep-
 <img src="https://img.shields.io/badge/C%2b%2b-%23323330.svg?style=for-the-badge&logo=c&logoColor=%23007ACD" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=pytho" />
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/nest.js-%23404d59.svg?style=for-the-badge&logo=nestjs&logoColor=%23e0234e" />
-<img src="https://img.shields.io/badge/material%20ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)" />
 <img src="https://img.shields.io/badge/PostgresSQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=whit" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
